@@ -5,8 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com.py
+    icon: https://www.google.com/favicon.ico
+
   - name: Facebook
     url: https://es-la.facebook.com
+    icon: https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-1facebook-4102573_113807.png
+    
   - name: Twitter
     url: https://twitter.com
   - name: Youtube

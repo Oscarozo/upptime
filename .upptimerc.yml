@@ -13,7 +13,7 @@ sites:
     url: https://www.youtube.com
   - name: ABC
     url: https://www.abc.com.py
- - name: Ultima_Hora
+  - name: Ultima_Hora
     url: https://www.ultimahora.com
 
 assignees:

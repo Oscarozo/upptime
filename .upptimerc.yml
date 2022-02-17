@@ -29,7 +29,8 @@ sites:
 
   - name: Educa 
     url: https://ead.pol.una.py/sitio/
-    #icon: https://ead.pol.una.py/sitio/wp-content/uploads/2016/08/educa-nuevo-mini.png 
+    icon: https://ead.pol.una.py/sitio/wp-content/uploads/2016/08/educa-nuevo-mini.png 
+    maxResponseTime: 5000
 
 
   - name: MiParaguay

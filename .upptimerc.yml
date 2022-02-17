@@ -13,12 +13,25 @@ sites:
     
   - name: Twitter
     url: https://twitter.com
+    icon: https://www.twitter.com/favicon.ico
+    
   - name: Youtube
     url: https://www.youtube.com
+    icon: https://www.youtube.com/favicon.ico
+
   - name: ABC
     url: https://www.abc.com.py
+    icon: https://www.abc.com.py/favicon.ico
+
   - name: Ultima_Hora
     url: https://www.ultimahora.com
+    icon: https://www.ultimahora.com/favicon.ico
+
+  - name: Educa 
+    url: https://ead.pol.una.py/sitio/
+    icon: https://ead.pol.una.py/sitio/wp-content/uploads/2016/08/educa-nuevo-mini.png 
+
+
   - name: MiParaguay
     url: http://www.miparaguay.dk
 
@@ -26,6 +39,7 @@ assignees:
  - Oscarozo
 
 status-website:
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
